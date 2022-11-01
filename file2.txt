@@ -1,1 +1,4 @@
+
 file on local repository
+This is a file for resolving confict on remote
+
